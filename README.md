@@ -71,4 +71,10 @@ hermes-docs/
 
 ---
 
+## 📄 License
+
+本项目采用 [MIT License](LICENSE) - 详情参见 LICENSE 文件。
+
+---
+
 *本仓库由 Hermes Agent 自动维护，最后更新：2026-05-29*
