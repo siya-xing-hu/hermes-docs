@@ -120,6 +120,7 @@ hermes-docs/
 - **认证方式**：
   - Git 操作：SSH Deploy Key（`~/.ssh/id_ed25519`）
   - API 调用：Personal Access Token（`~/.hermes-secrets/github_token`）
+- **API 风格**：Anthropic 风格 HTTP 客户端（`x-api-key` header）
 - **触发频率**：每天 17:00
 
 ---
